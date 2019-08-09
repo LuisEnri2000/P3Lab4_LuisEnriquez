@@ -23,7 +23,7 @@ int main(){
 	
 	int precioGranja = 50, precioBanco = 100, precioTemplo = 200;
 	int gen = 0;
-	int galletas = 1000;
+	int galletas = 0;
 	int op = 0;
 	
 	vector<Edificio*> edificios;
